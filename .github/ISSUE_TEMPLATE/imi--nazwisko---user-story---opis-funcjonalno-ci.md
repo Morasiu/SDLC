@@ -1,6 +1,6 @@
 ---
 name: Imię Nazwisko - User Story - Opis funcjonalności
-about: User Story
+about: Imię Nazwisko - User Story - Opis funkcjonalności
 title: User Story
 labels: ''
 assignees: ''
