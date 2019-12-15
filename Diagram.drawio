@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-15T09:30:04.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="_fcSHl6f9V6-33VR_Hbq" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-15T09:42:06.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="vyThhdFeKz-V-oK3KATN" version="12.4.2" type="github" pages="1">
   <diagram id="sbx90NKQ8JtppjE0t-Ym" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="440"/>
-              <mxPoint x="180" y="730"/>
+              <mxPoint x="180" y="790"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -76,7 +76,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="440"/>
-              <mxPoint x="180" y="800"/>
+              <mxPoint x="180" y="850"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -84,7 +84,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="440"/>
-              <mxPoint x="180" y="850"/>
+              <mxPoint x="180" y="910"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -92,7 +92,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="440"/>
-              <mxPoint x="180" y="920"/>
+              <mxPoint x="180" y="980"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -100,7 +100,24 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="440"/>
-              <mxPoint x="180" y="980"/>
+              <mxPoint x="180" y="1040"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-55" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Hk6zWukqzI0tbRbYJxlD-1" target="Hk6zWukqzI0tbRbYJxlD-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="440"/>
+              <mxPoint x="180" y="110"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Hk6zWukqzI0tbRbYJxlD-1" target="Hk6zWukqzI0tbRbYJxlD-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="440"/>
+              <mxPoint x="180" y="670"/>
+              <mxPoint x="508" y="670"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -119,7 +136,7 @@
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="Hk6zWukqzI0tbRbYJxlD-17" target="Hk6zWukqzI0tbRbYJxlD-7">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="Hk6zWukqzI0tbRbYJxlD-17" value="Używanie Punktów Akcji" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-17" value="Wykorzystanie Punktów Akcji" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="258.33" y="400" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="Hk6zWukqzI0tbRbYJxlD-20" target="Hk6zWukqzI0tbRbYJxlD-7">
@@ -141,7 +158,7 @@
           <mxGeometry x="258.33000000000004" y="20" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-32" value="Chatowanie z innymi graczami" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="258.33000000000004" y="620" width="120" height="80" as="geometry"/>
+          <mxGeometry x="258.33000000000004" y="680" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hk6zWukqzI0tbRbYJxlD-35" target="Hk6zWukqzI0tbRbYJxlD-7">
           <mxGeometry relative="1" as="geometry">
@@ -155,25 +172,50 @@
           <mxGeometry x="378.33" y="460" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-38" value="Chodzenie na wyprawy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="570" width="120" height="80" as="geometry"/>
+          <mxGeometry x="390" y="560" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="Hk6zWukqzI0tbRbYJxlD-41" target="Hk6zWukqzI0tbRbYJxlD-38">
-          <mxGeometry relative="1" as="geometry"/>
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="710" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-41" value="Zbieranie przedmiotów podczas wypraw" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="690" width="120" height="80" as="geometry"/>
+          <mxGeometry x="390" y="750" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-45" value="Zarządzanie bramą do miasta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="760" width="120" height="80" as="geometry"/>
+          <mxGeometry x="250" y="810" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-47" value="Sprawdzenie punktów obrony" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="810" width="120" height="80" as="geometry"/>
+          <mxGeometry x="390" y="870" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-49" value="Przeglądanie rejestru miasta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250.00000000000003" y="880" width="120" height="80" as="geometry"/>
+          <mxGeometry x="250.00000000000003" y="940" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-51" value="Komunikacja z innymi graczami poprzez forum" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="940" width="120" height="80" as="geometry"/>
+          <mxGeometry x="390" y="1000" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-54" value="Zarządzanie ekwipunkiem" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hk6zWukqzI0tbRbYJxlD-56" target="Hk6zWukqzI0tbRbYJxlD-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="489.9999999999998" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-56" value="System" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="460" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-57" value="Atak hordy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="450" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Hk6zWukqzI0tbRbYJxlD-59" target="Hk6zWukqzI0tbRbYJxlD-57">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-59" value="Sprawdzenie raportu po ataku hordy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="508.33" y="630.0000000000001" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-62" value="Wymaga" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="588.33" y="560" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
