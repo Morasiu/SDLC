@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-15T09:44:05.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="w3ota1k495827LZ2bg3b" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-15T09:50:40.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="S9H31SMU5ADJDFvDzoDQ" version="12.4.2" type="github" pages="1">
   <diagram id="sbx90NKQ8JtppjE0t-Ym" name="Page-1">
     <mxGraphModel dx="1185" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,15 +57,17 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="440"/>
-              <mxPoint x="180" y="610"/>
+              <mxPoint x="180" y="600"/>
+              <mxPoint x="400" y="600"/>
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hk6zWukqzI0tbRbYJxlD-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Hk6zWukqzI0tbRbYJxlD-1" target="Hk6zWukqzI0tbRbYJxlD-41">
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Hk6zWukqzI0tbRbYJxlD-1" target="Hk6zWukqzI0tbRbYJxlD-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="440"/>
               <mxPoint x="180" y="790"/>
+              <mxPoint x="453" y="790"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -108,7 +110,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="440"/>
-              <mxPoint x="180" y="110"/>
+              <mxPoint x="180" y="790"/>
+              <mxPoint x="520" y="790"/>
+              <mxPoint x="520" y="860"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -118,6 +122,14 @@
               <mxPoint x="180" y="440"/>
               <mxPoint x="180" y="670"/>
               <mxPoint x="508" y="670"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-72" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Hk6zWukqzI0tbRbYJxlD-1" target="Hk6zWukqzI0tbRbYJxlD-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="440"/>
+              <mxPoint x="180" y="1110"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -172,15 +184,22 @@
           <mxGeometry x="378.33" y="460" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-38" value="Chodzenie na wyprawy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="570" width="120" height="80" as="geometry"/>
+          <mxGeometry x="400" y="560" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="Hk6zWukqzI0tbRbYJxlD-41" target="Hk6zWukqzI0tbRbYJxlD-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="710" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="460" y="670"/>
+              <mxPoint x="460" y="670"/>
+            </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-75" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Hk6zWukqzI0tbRbYJxlD-41" target="Hk6zWukqzI0tbRbYJxlD-54">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-41" value="Zbieranie przedmiotów podczas wypraw" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="750" width="120" height="80" as="geometry"/>
+          <mxGeometry x="393.33" y="700" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-45" value="Zarządzanie bramą do miasta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="810" width="120" height="80" as="geometry"/>
@@ -195,30 +214,38 @@
           <mxGeometry x="390" y="1000" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-54" value="Zarządzanie ekwipunkiem" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="70" width="120" height="80" as="geometry"/>
+          <mxGeometry x="540" y="820" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hk6zWukqzI0tbRbYJxlD-56" target="Hk6zWukqzI0tbRbYJxlD-57">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="489.9999999999998" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-78" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Hk6zWukqzI0tbRbYJxlD-56" target="Hk6zWukqzI0tbRbYJxlD-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="490"/>
+              <mxPoint x="720" y="1110"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-56" value="System" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="460" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-57" value="Atak hordy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="450" width="120" height="80" as="geometry"/>
+          <mxGeometry x="580" y="450" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Hk6zWukqzI0tbRbYJxlD-59" target="Hk6zWukqzI0tbRbYJxlD-57">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-59" value="Sprawdzenie raportu po ataku hordy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="508.33" y="630.0000000000001" width="120" height="80" as="geometry"/>
+          <mxGeometry x="530" y="630.0000000000001" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-62" value="Wymaga" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="588.33" y="560" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-65" value="Wymaga" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="458.33" y="710" width="40" height="20" as="geometry"/>
+          <mxGeometry x="468.33" y="680" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-67" value="Wymaga" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="393.33" y="300" width="40" height="20" as="geometry"/>
@@ -228,6 +255,18 @@
         </mxCell>
         <mxCell id="Hk6zWukqzI0tbRbYJxlD-69" value="Wymaga" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="390" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-79" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="Hk6zWukqzI0tbRbYJxlD-71" target="Hk6zWukqzI0tbRbYJxlD-77">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-71" value="Głosowanie na banicje gracza" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1070" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-76" value="Wymaga" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="740" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hk6zWukqzI0tbRbYJxlD-77" value="Banicja gracza z miasta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="513.3299999999999" y="1070" width="120" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
